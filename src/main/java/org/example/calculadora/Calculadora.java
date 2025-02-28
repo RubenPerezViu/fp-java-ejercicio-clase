@@ -1,8 +1,8 @@
 package org.example.calculadora;
 
 public class Calculadora {
-    public static int valorAbsoluto(int x) {
-        return Math.abs(x);
+    public static int valorAbsoluto(int valor) {
+        return Math.abs(valor);
     }
 
     public static void main(String[] args) {
