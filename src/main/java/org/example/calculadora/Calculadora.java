@@ -1,6 +1,5 @@
 package org.example.calculadora;
 
-org.example.calculadora.Potencia.Potencia;
 
 public class Calculadora {
     public static int sumar(int a, int b) {
